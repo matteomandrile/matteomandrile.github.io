@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Matteo Mandrile Portfolio"
+title:		           "MM | Portfolio"
 description:	       "A selection of built, unbuilt and research projects"
 author:              "Matteo Mandrile"
 
