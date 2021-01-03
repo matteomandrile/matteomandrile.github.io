@@ -6,10 +6,12 @@ categories: architecture
 tags: [competition]
 image: 2013-arc-br-stadium-ico.svg
 ---
-
+## Brasília
 This project propose a new soccer stadium for Brasilia, the Brazilian capital, for the 2014 FIFA World Cup. The city is located atop the Brazilian highlands in the country’s center-western region. It was founded in 1960, to serve as the new national capital. Brasília was planned and developed by Lúcio Costa and Oscar Niemeyer in 1956 to move the capital from Rio de Janeiro to a more central location. The city’s is divided into numbered blocks and sectors for specified activities, such as the Hotel Sector, the Banking Sector and the Embassy Sector. Brasília was chosen as a UNESCO World Heritage Site due to its modernist architecture and uniquely artistic urban planning. The plot is situated near the Television Tower, on Eixo Monumental (Monumental Axis Avenue). The total capacity of the arena is about 70.000 people, in order to reach the FIFA requirements for the World Cup.
 
 ![Brasilia urban plan](/assets/img/2013-arc-br-stadium-urb.svg "Brasilia urban plan")
+
+## *φ - phi*. Golden Ration and classical proportions
 
 $$
  \varphi = \frac{1+ \sqrt{5}}{2} = 1.618033988749894848204586834365
@@ -17,7 +19,7 @@ $$
 
 The Fibonacci Sequence is a sequence of numbers where each number is the sum of the previous two - i.e: 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34… and so on, to infinity.
-The ratio of one number to the next is approximately 1.61803, which is called “phi”, or the Golden Ratio.
+The ratio of one number to the next is approximately 1.61803, which is called *phi*, or the Golden Ratio.
 
 ![The golden Ratio](/assets/img/2013-arc-br-stadium-phi.png "The golden Ratio")
 
@@ -28,18 +30,29 @@ Lucio Costa, has insisted on the importance of proportion to achieve harmony in 
 
 ![Stadium roof conceptual scheme](/assets/img/2013-arc-br-stadium-mod.svg "Stadium roof conceptual scheme")
 
+## Concept
 Starting from these premises and understanding the relevance of curves in the architectural language of the Brazilian master, the classical proportions and the rules of nature have laid the foundations for the formal research of the project.
 
 >(…) I am attracted by free-flowing, sensuous curves. The curves I find on the mountains of my native land, in the sinuous course of its rivers, in the clouds, in the sky, and on the body of the beloved woman.<sup>3</sup>
 
 ![Exploded view](/assets/img/2013-arc-br-stadium-exp.png "Exploded view")
 
+## Plan orientation
+Care has been taken regarding the angle of the playing field in relation to the sun and the prevailing weather conditions. Guests are protected as much as possible from the glare of the sun. The effect of the roof on the playing field was also considered. Given the use of natural grass in the pitch, it is critical that there is enough light and air movement to sustain the healthy growth of grass.
+A north-south field orientation is often considered ideal but more sophisticated 
+analysis has led stadium designers to choose an angle equal to the average direction of the sun at half time in an afternoon game. 
+
+![Stadium Plan](/assets\img\2013-arc-br-stadium-pln.svg "Stadium Plan")
+
 ![Interior view from skybox](/assets\img\2013-arc-br-stadium-int.png "Interior view from skybox")
 
 ![Rood Structural Frame](/assets\img\2013-arc-br-stadium-frm.svg "Rood Structural Frame")
 
-![Stadium Section](/assets\img\2013-arc-br-stadium-sec.png "Stadium Section")
+![Stadium Plan](/assets\img\2013-arc-br-stadium-sec.png "Stadium Section")
 
+
+<div>
 <sup>1</sup> Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. [https://doi.org/10.1017/S1359135500000324](https://doi.org/10.1017/S1359135500000324)
 
 <sup>2</sup> Turkienicz B., Mayer R. (2015) *Oscar Niemeyer Curved Lines: Few Words Many Sentences*. In: Williams K., Ostwald M. (eds) *Architecture and Mathematics from Antiquity to the Future*. Birkhäuser, Cham. [https://doi.org/10.1007/978-3-319-00143-2_26](https://doi.org/10.1007/978-3-319-00143-2_26)
+</div>
