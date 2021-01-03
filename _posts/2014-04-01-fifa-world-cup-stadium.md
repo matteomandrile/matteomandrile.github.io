@@ -22,18 +22,18 @@ The ratio of one number to the next is approximately 1.61803, which is called �
 ![The golden Ratio](/assets/img/2013-arc-br-stadium-phi.png "The golden Ratio")
 
 In the Modulor, Le Corbusier describes the golden ratio and the Fibonacci series as 
-> rhythms apparent to eye and clear in their relations with one another. And these rhythms are at the very root of human activities. [^1]
+> rhythms apparent to eye and clear in their relations with one another. And these rhythms are at the very root of human activities. <sup>1</sup>
 
-Lucio Costa, has insisted on the importance of proportion to achieve harmony in designs. As Niemeyer was strongly influenced by Costa and Corbusier, Turkienicz and Mayerwe have analyzed several buildings searching after proportions used in the design process. The study unveiled many relations between parts of the building, all of them referred to the golden section. [^2]
+Lucio Costa, has insisted on the importance of proportion to achieve harmony in designs. As Niemeyer was strongly influenced by Costa and Corbusier, Turkienicz and Mayerwe have analyzed several buildings searching after proportions used in the design process. The study unveiled many relations between parts of the building, all of them referred to the golden section. <sup>2</sup>
 
 ![Stadium roof conceptual scheme](/assets/img/2013-arc-br-stadium-mod.png "Stadium roof conceptual scheme")
 
 Starting from these premises and understanding the relevance of curves in the architectural language of the Brazilian master, the classical proportions and the rules of nature have laid the foundations for the formal research of the project.
 
->(…) I am attracted by free-flowing, sensuous curves. The curves I find on the mountains of my native land, in the sinuous course of its rivers, in the clouds, in the sky, and on the body of the beloved woman.[^3]
+>(…) I am attracted by free-flowing, sensuous curves. The curves I find on the mountains of my native land, in the sinuous course of its rivers, in the clouds, in the sky, and on the body of the beloved woman.<sup>3</sup>
 
 ![Exploded view](/assets/img/2013-arc-br-stadium-exp.png "Exploded view")
 
-[^1] Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. https://doi.org/10.1017/S1359135500000324
+<sup>1</sup> Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. https://doi.org/10.1017/S1359135500000324
 
-[^2] Turkienicz B., Mayer R. (2015) *Oscar Niemeyer Curved Lines: Few Words Many Sentences*. In: Williams K., Ostwald M. (eds) *Architecture and Mathematics from Antiquity to the Future*. Birkhäuser, Cham. https://doi.org/10.1007/978-3-319-00143-2_26
+<sup>2</sup> Turkienicz B., Mayer R. (2015) *Oscar Niemeyer Curved Lines: Few Words Many Sentences*. In: Williams K., Ostwald M. (eds) *Architecture and Mathematics from Antiquity to the Future*. Birkhäuser, Cham. https://doi.org/10.1007/978-3-319-00143-2_26
