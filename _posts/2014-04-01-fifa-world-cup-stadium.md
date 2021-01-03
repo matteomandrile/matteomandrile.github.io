@@ -48,9 +48,11 @@ analysis has led stadium designers to choose an angle equal to the average direc
 
 ![Rood Structural Frame](/assets\img\2013-arc-br-stadium-frm.svg "Rood Structural Frame")
 
-![Stadium Section](/assets\img\2013-arc-br-stadium-sec.svg "Stadium Section
-")
+![Stadium Render](/assets\img\2013-arc-br-stadium-sec.svg "Stadium Render")
 
+![Stadium Section](/assets\img\2013-arc-br-stadium-ins.svg "Stadium Section")
+
+![Stadium Section](/assets\img\RG3_DET_401_2.pdf "Stadium Section")
 
 <sup>1</sup> Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. [https://doi.org/10.1017/S1359135500000324](https://doi.org/10.1017/S1359135500000324)
 
