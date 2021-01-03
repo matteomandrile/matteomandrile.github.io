@@ -21,7 +21,7 @@ The Fibonacci Sequence is a sequence of numbers where each number is the sum of 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34… and so on, to infinity.
 The ratio of one number to the next is approximately 1.61803, which is called *phi*, or the Golden Ratio.
 
-![The golden Ratio](/assets/img/2013-arc-br-stadium-phi.png "The golden Ratio")
+![The golden Ratio](/assets/img/2013-arc-br-stadium-phi.svg "The golden Ratio")
 
 In the Modulor, Le Corbusier describes the golden ratio and the Fibonacci series as 
 > rhythms apparent to eye and clear in their relations with one another. And these rhythms are at the very root of human activities. <sup>1</sup>
@@ -48,7 +48,7 @@ analysis has led stadium designers to choose an angle equal to the average direc
 
 ![Rood Structural Frame](/assets\img\2013-arc-br-stadium-frm.svg "Rood Structural Frame")
 
-![Stadium Plan](/assets\img\2013-arc-br-stadium-sec.svg "Stadium Section")
+![Stadium Section](/assets\img\2013-arc-br-stadium-sec.svg "Stadium Section")
 
 
 <sup>1</sup> Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. [https://doi.org/10.1017/S1359135500000324](https://doi.org/10.1017/S1359135500000324)
