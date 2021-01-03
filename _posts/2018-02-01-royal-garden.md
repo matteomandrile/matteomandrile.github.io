@@ -7,6 +7,10 @@ tags: [residential]
 city: Shanghai
 image: 2018-arc-cn-rg-ico.svg
 ---
+<p align="center"> 
+    &copy; <a href="(https://www.peiaassociati.it/" target="_blank">Peia Associati</a>
+</p>
+
 ## Shanghai
 The opening of the Chinese housing market to private development is set to further magnify the presence of Italian design in Shanghai. The client commissioned to Peia Associati the development of 8 high rise residential buildings and all related complementary facilities such as a school, an organic food market. On this project I collaborated for the design of the exterior facades and their interior design. To design the elevations we took inspiration from China’s most dramatic landscapes: the rice fields and the Tianzi Mountains. As a result, the facade design for each building block follows the same rule of interrupting the uniformity, by crossing and solving the intrusions and extrusions of volumes and balconies with its own new character, without affecting the approved layout and corresponding floor areas. The buildings are similar, yet their façades are different as per plan layout difference. The variety is important to avoid a tiling effect, repetition and monotonous fronts. The facades are made mainly from glass, fibre cement, aluminium panels and aluminium mesh in order to allow double skin and ventilation through the facades. The laminated glass of balconies and bay windows are treated with patterned and parametric frit to create the fading effect of white clouds, playing with the combined reflection of the sky.
 
