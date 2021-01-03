@@ -4,6 +4,7 @@ title: "FIFA World Cup Stadium"
 author: "Matteo Mandrile"
 categories: architecture
 tags: [competition]
+city: Brasilia
 image: 2013-arc-br-stadium-ico.svg
 ---
 ## Brasília
