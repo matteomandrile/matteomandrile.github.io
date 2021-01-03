@@ -13,7 +13,6 @@ This project propose a new soccer stadium for Brasilia, the Brazilian capital, f
 ![Brasilia urban plan](/assets/img/2013-arc-br-stadium-urb.svg "Brasilia urban plan")
 
 ## *φ - phi*. Golden Ration and classical proportions
-
 $$
  \varphi = \frac{1+ \sqrt{5}}{2} = 1.618033988749894848204586834365
 $$
