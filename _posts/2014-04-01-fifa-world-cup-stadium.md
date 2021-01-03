@@ -44,15 +44,13 @@ analysis has led stadium designers to choose an angle equal to the average direc
 
 ![Stadium Plan](/assets\img\2013-arc-br-stadium-pln.svg "Stadium Plan")
 
-![Interior view from skybox](/assets\img\2013-arc-br-stadium-int.png "Interior view from skybox")
+![Interior view from skybox](/assets\img\2013-arc-br-stadium-int.svg "Interior view from skybox")
 
 ![Rood Structural Frame](/assets\img\2013-arc-br-stadium-frm.svg "Rood Structural Frame")
 
-![Stadium Plan](/assets\img\2013-arc-br-stadium-sec.png "Stadium Section")
+![Stadium Plan](/assets\img\2013-arc-br-stadium-sec.svg "Stadium Section")
 
 
-<div>
 <sup>1</sup> Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. [https://doi.org/10.1017/S1359135500000324](https://doi.org/10.1017/S1359135500000324)
 
 <sup>2</sup> Turkienicz B., Mayer R. (2015) *Oscar Niemeyer Curved Lines: Few Words Many Sentences*. In: Williams K., Ostwald M. (eds) *Architecture and Mathematics from Antiquity to the Future*. Birkhäuser, Cham. [https://doi.org/10.1007/978-3-319-00143-2_26](https://doi.org/10.1007/978-3-319-00143-2_26)
-</div>
