@@ -35,7 +35,7 @@ Starting from these premises and understanding the relevance of curves in the ar
 
 >(…) I am attracted by free-flowing, sensuous curves. The curves I find on the mountains of my native land, in the sinuous course of its rivers, in the clouds, in the sky, and on the body of the beloved woman.<sup>3</sup>
 
-![Exploded view](/assets/img/2013-arc-br-stadium-exp.png "Exploded view")
+![Exploded view](/assets/img/2013-arc-br-stadium-exp.svg "Exploded view")
 
 ## Plan orientation
 Care has been taken regarding the angle of the playing field in relation to the sun and the prevailing weather conditions. Guests are protected as much as possible from the glare of the sun. The effect of the roof on the playing field was also considered. Given the use of natural grass in the pitch, it is critical that there is enough light and air movement to sustain the healthy growth of grass.
@@ -48,7 +48,8 @@ analysis has led stadium designers to choose an angle equal to the average direc
 
 ![Rood Structural Frame](/assets\img\2013-arc-br-stadium-frm.svg "Rood Structural Frame")
 
-![Stadium Section](/assets\img\2013-arc-br-stadium-sec.svg "Stadium Section")
+![Stadium Section](/assets\img\2013-arc-br-stadium-sec.svg "Stadium Section
+")
 
 
 <sup>1</sup> Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. [https://doi.org/10.1017/S1359135500000324](https://doi.org/10.1017/S1359135500000324)
