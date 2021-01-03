@@ -26,7 +26,7 @@ In the Modulor, Le Corbusier describes the golden ratio and the Fibonacci series
 
 Lucio Costa, has insisted on the importance of proportion to achieve harmony in designs. As Niemeyer was strongly influenced by Costa and Corbusier, Turkienicz and Mayerwe have analyzed several buildings searching after proportions used in the design process. The study unveiled many relations between parts of the building, all of them referred to the golden section. <sup>2</sup>
 
-![Stadium roof conceptual scheme](/assets/img/2013-arc-br-stadium-mod.png "Stadium roof conceptual scheme")
+![Stadium roof conceptual scheme](/assets/img/2013-arc-br-stadium-mod.svg "Stadium roof conceptual scheme")
 
 Starting from these premises and understanding the relevance of curves in the architectural language of the Brazilian master, the classical proportions and the rules of nature have laid the foundations for the formal research of the project.
 
