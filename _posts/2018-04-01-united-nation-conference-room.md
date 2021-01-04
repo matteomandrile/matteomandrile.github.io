@@ -23,3 +23,8 @@ Room XIX of the United Nations in Geneva has been completely renewed by PEIA Ass
 
 ![United Nation Conference Room XIX seats](/assets/img/2018-arc-ch-un-blt2.svg "United Nation Conference Room XIX seats")
 
+![United Nation Conference Room XIX detail 1](/assets/img/2018-arc-ch-un-det1.svg "United Nation Conference Room XIX detail 1]")
+
+![United Nation Conference Room XIX interpretation boot](/assets/img/2018-arc-ch-un-blt3.svg "United Nation Conference Room XIX interpretation boot")
+
+![United Nation Conference Room XIX detail 2](/assets/img/2018-arc-ch-un-det2.svg "United Nation Conference Room XIX detail 2]")
