@@ -19,4 +19,4 @@ Room XIX of the United Nations in Geneva has been completely renewed by PEIA Ass
 
 ![Genève urban plan](/assets/img/2018-arc-ch-un-sec3.png "Genève urban plan")
 
-![Genève urban plan](/assets/img/2018-arc-ch-un-sec.svg "Genève urban plan")
+![Genève urban plan](/assets/img/2018-arc-ch-un-sec2.svg "Genève urban plan")
