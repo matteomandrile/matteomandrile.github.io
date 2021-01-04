@@ -15,18 +15,19 @@ This project propose a new soccer stadium for Brasilia, the Brazilian capital, f
 $$
  \varphi = \frac{1+ \sqrt{5}}{2} = 1.618033988749894848204586834365
 $$
+
 The Fibonacci Sequence is a sequence of numbers where each number is the sum of the previous two - i.e: 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34… and so on, to infinity.
 The ratio of one number to the next is approximately 1.61803, which is called *phi*, or the Golden Ratio.
 ![The golden Ratio](/assets/img/2013-arc-br-stadium-phi.svg "The golden Ratio")
 In the Modulor, Le Corbusier describes the golden ratio and the Fibonacci series as 
 > rhythms apparent to eye and clear in their relations with one another. And these rhythms are at the very root of human activities. [^1]
+
 Lucio Costa, has insisted on the importance of proportion to achieve harmony in designs. As Niemeyer was strongly influenced by Costa and Corbusier, Turkienicz and Mayerwe have analyzed several buildings searching after proportions used in the design process. The study unveiled many relations between parts of the building, all of them referred to the golden section. [^2]
 ![Stadium roof conceptual scheme](/assets/img/2013-arc-br-stadium-mod.svg "Stadium roof conceptual scheme")
 
 ## Concept
 Starting from these premises and understanding the relevance of curves in the architectural language of the Brazilian master, the classical proportions and the rules of nature have laid the foundations for the formal research of the project.
-
 >(…) I am attracted by free-flowing, sensuous curves. The curves I find on the mountains of my native land, in the sinuous course of its rivers, in the clouds, in the sky, and on the body of the beloved woman.<sup>3</sup>
 
 ![Exploded view](/assets/img/2013-arc-br-stadium-exp.svg "Exploded view")
