@@ -24,7 +24,7 @@ The ratio of one number to the next is approximately 1.61803, which is called *p
 ![The golden Ratio](/assets/img/2013-arc-br-stadium-phi.svg "The golden Ratio")
 
 In the Modulor, Le Corbusier describes the golden ratio and the Fibonacci series as 
-> rhythms apparent to eye and clear in their relations with one another. And these rhythms are at the very root of human activities. <sup>1</sup>
+> rhythms apparent to eye and clear in their relations with one another. And these rhythms are at the very root of human activities. [^1]
 
 Lucio Costa, has insisted on the importance of proportion to achieve harmony in designs. As Niemeyer was strongly influenced by Costa and Corbusier, Turkienicz and Mayerwe have analyzed several buildings searching after proportions used in the design process. The study unveiled many relations between parts of the building, all of them referred to the golden section. <sup>2</sup>
 
@@ -53,6 +53,6 @@ analysis has led stadium designers to choose an angle equal to the average direc
 ![Stadium Section](/assets\img\2013-arc-br-stadium-ins.svg "Stadium Section")
 
 * * *
-<sup>1</sup> Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. [https://doi.org/10.1017/S1359135500000324](https://doi.org/10.1017/S1359135500000324)
+[^1]: Le Corbusier, *The Modulor* p. 25, as cited in Padovan, Richard, *Proportion: Science, Philosophy, Architecture* (1999), p. 316, Taylor and Francis. [https://doi.org/10.1017/S1359135500000324](https://doi.org/10.1017/S1359135500000324)
 
 <sup>2</sup> Turkienicz B., Mayer R. (2015) *Oscar Niemeyer Curved Lines: Few Words Many Sentences*. In: Williams K., Ostwald M. (eds) *Architecture and Mathematics from Antiquity to the Future*. Birkhäuser, Cham. [https://doi.org/10.1007/978-3-319-00143-2_26](https://doi.org/10.1007/978-3-319-00143-2_26)
