@@ -9,7 +9,7 @@ google-ID: 'G-RLFPLRZ6V5'
 menu:
 - {name: 'Architecture', folder: 'pages', file: 'architecture.html'}
 - {name: 'Urban', folder: 'pages', file: 'urban.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
+- {name: 'Interior', folder: 'pages', file: 'interior.html'}
 - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
