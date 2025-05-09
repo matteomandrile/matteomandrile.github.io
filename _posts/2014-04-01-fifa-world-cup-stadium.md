@@ -28,7 +28,7 @@ Lucio Costa, has insisted on the importance of proportion to achieve harmony in 
 
 ## Concept
 Starting from these premises and understanding the relevance of curves in the architectural language of the Brazilian master, the classical proportions and the rules of nature have laid the foundations for the formal research of the project.
->(…) I am attracted by free-flowing, sensuous curves. The curves I find on the mountains of my native land, in the sinuous course of its rivers, in the clouds, in the sky, and on the body of the beloved woman. [^3]
+>(…) I am attracted by free-flowing, sensuous curves. The curves I find on the mountains of my native land, in the sinuous course of its rivers, in the clouds, in the sky (…) [^3]
 
 ![Exploded view](/assets/img/projects/2013-arc-br-stadium/2013-arc-br-stadium-exp.svg "Exploded view")
 
