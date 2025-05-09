@@ -11,11 +11,11 @@ Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide
 
 ## Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+<!-- [Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme. -->
 
 ## Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+<!-- [Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %}) -->
 
 ## Questions?
 
@@ -27,7 +27,7 @@ This theme is completely free and open source software. You may use it however y
 
 Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you'll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
 
 ### Portfolio Jekyll Theme
 
@@ -39,4 +39,4 @@ Everything that you will ever need to know about this Jekyll theme is included i
 
 The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you'll also find instructions on how to use install and use the theme.
