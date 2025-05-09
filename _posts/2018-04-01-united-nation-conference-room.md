@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "United Nation Conference Room XIX"
+title: "UN Conference Room XIX"
 author: "Matteo Mandrile"
 categories: architecture
 tags: [auditorium]
