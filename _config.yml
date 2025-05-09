@@ -1,13 +1,27 @@
+# Site settings
+title: Matteo Mandrile
+email: matteo.mandrile@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A selection of built, unbuilt and research projects by Matteo Mandrile
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: matteomandrile
+# github_username:  matteomandrile
+
 # Site Build Settings
 
 # jekyll-paginate configuration
 paginate:            5
 
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+markdown: kramdown
+remote_theme: LeNPaul/Millennial
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 
 sass:
   sass_dir: assets/css
@@ -21,3 +35,13 @@ author:              "Matteo Mandrile"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
