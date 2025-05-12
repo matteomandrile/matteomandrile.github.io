@@ -25,7 +25,13 @@ The building layout allows to exploit the entire edificable area allowed by the 
 
 ![Beach House second floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln2.svg "Beach House second floor plan")
 
-![Beach House cut](/assets/img/projects/2016-int-it-bh-cut.svg "Beach House cut")
+![Beach House cut](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-cut.svg "Beach House cut")
+
+![Beach House cut2](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-cut2.svg "Beach House cut2")
+
+![Beach House cut3](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-cut3.svg "Beach House cut3")
+
+![Beach House details](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det.svg "Beach House details")
 
 ![Beach House courtyard elevation](/assets/img/projects/2015-arc-it-ci/2015-arc-it-ci-ele1.svg "Beach House courtyard elevation")
 
