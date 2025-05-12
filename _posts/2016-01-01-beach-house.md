@@ -17,11 +17,11 @@ The building layout allows to exploit the entire edificable area allowed by the 
 
 ![Turin urban plan](/assets/img/projects/2015-arc-it-ci/2015-arc-it-ci-urb.svg "Turin urban plan")
 
-![Beach House exploded](assets/img/projects/2016-int-it-bh/2016-int-it-bh-exp.pdf "Beach House exploded")
+![Beach House exploded](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-exp.pdf "Beach House exploded")
 
-![Beach House ground floor plan](assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln1.jpg "Beach House ground floor plan")
+![Beach House ground floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln1.jpg "Beach House ground floor plan")
 
-![Beach House second floor plan](assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln2.jpg "Beach House second floor plan")
+![Beach House second floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln2.jpg "Beach House second floor plan")
 
 ![Beach House courtyard elevation](/assets/img/projects/2015-arc-it-ci/2015-arc-it-ci-ele1.svg "Beach House courtyard elevation")
 
