@@ -21,16 +21,19 @@ The building layout allows to exploit the entire edificable area allowed by the 
 
 ![Beach House exploded](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-exp.svg "Beach House exploded")
 
+## Floorplans
 ![Beach House ground floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln1.svg "Beach House ground floor plan")
 
 ![Beach House second floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln2.svg "Beach House second floor plan")
 
+## Sections
 ![Beach House cut](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-cut.svg "Beach House cut")
 
 ![Beach House cut2](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-cut2.svg "Beach House cut2")
 
 ![Beach House cut3](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-cut3.svg "Beach House cut3")
 
+## Details
 ![Beach House details](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det.svg "Beach House details")
 
 ![Beach House details2](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det2.svg "Beach House details2")
@@ -38,6 +41,15 @@ The building layout allows to exploit the entire edificable area allowed by the 
 ![Beach House details3](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det3.svg "Beach House details3")
 
 ![Beach House details4](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det4.svg "Beach House details4")
+
+## Kitchen
+![Beach House kitchen1](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-kit1.svg "Beach House kitchen1")
+
+![Beach House kitchen2](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-kit2.svg "Beach House kitchen2")
+
+![Beach House kitchen3](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-kit3.svg "Beach House kitchen3")
+
+![Beach House kitchen4](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-kit4.svg "Beach House kitchen4")
 
 ![Beach House courtyard elevation](/assets/img/projects/2015-arc-it-ci/2015-arc-it-ci-ele1.svg "Beach House courtyard elevation")
 
