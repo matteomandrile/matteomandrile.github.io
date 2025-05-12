@@ -19,6 +19,8 @@ The building layout allows to exploit the entire edificable area allowed by the 
 
 ![Beach House exterior](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-ext.svg "Beach House exterior")
 
+![Beach House exploded](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-exp.svg "Beach House exploded")
+
 ![Beach House ground floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln1.svg "Beach House ground floor plan")
 
 ![Beach House second floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln2.svg "Beach House second floor plan")
