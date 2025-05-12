@@ -33,6 +33,12 @@ The building layout allows to exploit the entire edificable area allowed by the 
 
 ![Beach House details](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det.svg "Beach House details")
 
+![Beach House details2](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det2.svg "Beach House details2")
+
+![Beach House details3](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det3.svg "Beach House details3")
+
+![Beach House details4](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-det4.svg "Beach House details4")
+
 ![Beach House courtyard elevation](/assets/img/projects/2015-arc-it-ci/2015-arc-it-ci-ele1.svg "Beach House courtyard elevation")
 
 ![Beach House section](/assets/img/projects/2015-arc-it-ci/2015-arc-it-ci-sec.svg "Beach House section")
