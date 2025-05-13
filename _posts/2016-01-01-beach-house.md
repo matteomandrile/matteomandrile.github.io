@@ -11,13 +11,14 @@ image: projects/2016-int-it-bh/2016-int-it-bh-ico.svg
     &copy; <a href="(http://www.maatarchitettura.it/en/" target="_blank">MAAT Architettura</a>
 </p>
 
-## Turin
-The project aims to develop a mixed-use building (commercial and residential) in Turin, Aurora district. This choice derives from a careful market analysis to define the main design guidelines that led to the definition of commercial areas and apartment sizes and layouts. The solution proposed by MAAT Architecture starts with a careful analysis of the urban context, considering the socio-economic fabric of the neighborhood, the climatic features of the site and the present and projected scenarios for the area, which are of interest for the Public Administration and private initiatives because of its progressive transformation. The design goal is to reconstruct the storical urban void, while adopting contemporary design and technology solutions.
-The building layout allows to exploit the entire edificable area allowed by the law, reaching the height of the neighboring buildings, and sitting pleasantly within the context. The project consists of a basement with car parks, storage rooms, archives and technical rooms, a mezzanine floor for commercial activities with condominium gardens inside the courtyard, a floor with offices and the other four levels used to accommodate several flats of different sizes. The typology of the apartments is divided into simplex and duplex, all featuring double exposure (north-south), with terraces on the top floor.
+## Sardinia
+The project focuses on the restoration, conservative redevelopment, and sanitary adaptation of a residential building in Sardinia. The property covers approximately 8,000 square meters, with the building itself having a surface area of 200 square meters. Originally constructed in the 17th century, the building served as a warehouse for storing fishing nets until the early 20th century, after which it was converted into a residence.  
 
 ![Sardinia urban plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-urb.svg "Sardinia urban plan")
 
 ![Beach House exterior](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-ext.svg "Beach House exterior")
+
+The design incorporates solutions to improve the transition between indoor and outdoor areas by adding removable wooden shades. Finally, the reorganization of open spaces will include landscape design that integrates native plant species, pathways, and relaxation areas.
 
 ![Beach House exterior2](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-ext2.svg "Beach House exterior2")
 
@@ -25,9 +26,14 @@ The building layout allows to exploit the entire edificable area allowed by the 
 
 ![Beach House exterior4](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-ext4.svg "Beach House exterior4")
 
+ The load-bearing structure is composed of local stone blocks, including sandstone and trachyte. A wooden framework, comprising ridge beams and secondary beams, supports the Portuguese tile roof. New internal walls will be constructed using aerated concrete blocks (gasbeton). The mezzanine floor structure will consist of metal components, including HEB100 uprights, IPE160 beams, UPN160, and UPN180 profiles.
+
+
 ![Beach House exploded](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-exp.svg "Beach House exploded")
 
 ## Floorplans
+The changes to the internal layout are designed to respect the building's original spatial characteristics, ensuring a cohesive flow of the spaces. This approach maximizes the use of the available surface area and height. 
+
 ![Beach House ground floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln1.svg "Beach House ground floor plan")
 
 ![Beach House second floor plan](/assets/img/projects/2016-int-it-bh/2016-int-it-bh-pln2.svg "Beach House second floor plan")
