@@ -21,7 +21,7 @@ image: projects/2015-int-it-co/2015-int-it-co-ico.svg
 
 ![L-connection 1 ground floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln11.svg "L-connection 1 ground floor plan")
 
-![L-connection 1 second floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln12.svg "L-connection 1second floor plan")
+![L-connection 1 second floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln12.svg "L-connection 1 second floor plan")
 
 ## Apartment 1 Bespoke Furnitures
 ![L-connection details](/assets/img/projects/2015-int-it-co/2015-int-it-co-det11.svg "L-connection details")
@@ -51,3 +51,21 @@ image: projects/2015-int-it-co/2015-int-it-co-ico.svg
 ![L-connection render5](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd15.svg "L-connection render5")
 
 ![L-connection render6](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd16.svg "L-connection render6")
+
+## Apartment 2 Floorplans
+
+![L-connection 2ground floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln21.svg "L-connection 2 ground floor plan")
+
+![L-connection 2 second floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln22.svg "L-connection 2 second floor plan")
+
+## Apartment 2 Bespoke Furnitures
+
+![L-connection render6](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd21.svg "L-connection render6")
+
+![L-connection render7](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd22.svg "L-connection render7")
+
+![L-connection render8](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd23.svg "L-connection render8")
+
+![L-connection render9](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd24.svg "L-connection render9")
+
+![L-connection render10](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd25.svg "L-connection render10")
