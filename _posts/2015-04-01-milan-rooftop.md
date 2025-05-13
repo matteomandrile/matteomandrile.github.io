@@ -22,6 +22,7 @@ image: projects/2015-int-it-mi/2015-int-it-mi-ico.svg
 ![Milan rooftop second floor plan](/assets/img/projects/2015-int-it-mi/2015-int-it-mi-pln2.svg "Milan rooftop second floor plan")
 
 ## Sections
+
 ![Milan rooftop cut1](/assets/img/projects/2015-int-it-mi/2015-int-it-mi-cut1.svg "Milan rooftop cut1")
 
 ![Milan rooftop cut2](/assets/img/projects/2015-int-it-mi/2015-int-it-mi-cut2.svg "Milan rooftop cut2")
