@@ -8,13 +8,12 @@
 }
 .featured-posts h2 {
   bottom: 0;
-  margin: 0;
+  margin: 50%;
   padding: 10px;
   position: absolute;
 }
 .featured-posts h2 span {
-   display: flex;
-   justify-content: left;
+   display: inline-block;
    color: black;
    font: bold 24px/45px 'Roboto', Sans-Serif;
    letter-spacing: -1px;
