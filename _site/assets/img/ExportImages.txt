@@ -1,6 +1,0 @@
-To export resizable images:
-- import in illustrator
-- incorpora
-- file > esporta > esporta per schermi
-- choose tavole disegno
-- SVG
