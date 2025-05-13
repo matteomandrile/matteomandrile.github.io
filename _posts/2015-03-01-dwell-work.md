@@ -21,7 +21,7 @@ image: projects/2015-int-it-sm/2015-int-it-sm-ico.svg
 
 ![dwell work second floor plan](/assets/img/projects/2015-int-it-sm/2015-int-it-sm-pln2.svg "dwell work second floor plan")
 
-## Apartment 1 Bespoke Furnitures
+## Bespoke Furnitures
 
 ![dwell work render1](/assets/img/projects/2015-int-it-sm/2015-int-it-sm-rnd1.svg "dwell work render1")
 
