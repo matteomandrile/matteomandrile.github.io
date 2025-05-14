@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 332.3 322.2">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #212830;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-dasharray: 5 3;
+        stroke-width: .2px;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.7, SVG Export Plug-In . SVG Version: 1.2.0 Build 194)  -->
+  <g>
+    <g id="Livello_1">
+      <rect class="cls-1" x="10.6" y="100.3" width="45.5" height="117.1"/>
+      <rect class="cls-2" x="59.6" y="100.3" width="33.9" height="38.8"/>
+      <rect class="cls-2" x="97" y="100.3" width="30" height="38.8"/>
+      <rect class="cls-2" x="130.6" y="100.3" width="191.7" height="38.8"/>
+      <rect class="cls-2" x="59.6" y="143.8" width="67.4" height="73.6"/>
+      <rect class="cls-2" x="79.4" y="219.7" width="111.1" height="16.6"/>
+      <rect class="cls-2" x="130.6" y="143.8" width="191.7" height="73.6"/>
+      <line class="cls-3" x1="144.7" y1="104.3" x2="144.7" y2="232.2"/>
+      <line class="cls-3" x1="313.7" y1="203.7" x2="17.6" y2="203.7"/>
+      <line class="cls-3" x1="313.7" y1="113.8" x2="17.6" y2="113.8"/>
+      <line class="cls-3" x1="24.7" y1="104.3" x2="24.7" y2="215.1"/>
+      <line class="cls-3" x1="76.6" y1="104.3" x2="76.6" y2="215.1"/>
+      <line class="cls-3" x1="112" y1="104.3" x2="112" y2="215.1"/>
+    </g>
+  </g>
+</svg>
