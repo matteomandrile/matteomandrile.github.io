@@ -22,13 +22,13 @@ image: projects/2019-arc-it-cf/2019-arc-it-cf-ico.svg
 
 ![Amazon Colleferro 3d](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-3d.svg "Amazon Colleferro 3d")
 
-![Amazon Colleferro vid1](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-vid1.mp4 "Amazon Colleferro vid1")
+{% include googleDrivePlayer.html id=page.gkUbtzB8nz1rf3CvrpGgrlKKvYuXXMpk/preview %}
 
-![Amazon Colleferro vid2](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-vid2.mp4 "Amazon Colleferro vid2")
+{% include googleDrivePlayer.html id=page.1gDtnczikFd3T6xJ9ui5cbChHh2x_DILu/preview %}
 
-![Amazon Colleferro vid3](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-vid3.mp4 "Amazon Colleferro vid3")
+{% include googleDrivePlayer.html id=page.1GZOz3yvTTNnxfluxCMrhfd_VGRK6y9iC/preview %}
 
-![Amazon Colleferro vid4](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-vid4.mp4 "Amazon Colleferro vid4")
+{% include googleDrivePlayer.html id=page.1IEJ1Eurlrelog9p1J8XiyUF--d5lFImM/preview %}
 
 ## Floorplans
 
