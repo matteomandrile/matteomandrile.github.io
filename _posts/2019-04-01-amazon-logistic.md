@@ -17,18 +17,7 @@ image: projects/2019-arc-it-cf/2019-arc-it-cf-ico.svg
 
 ![Amazon Colleferro urban plan](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-urb.svg "Amazon Colleferro urban plan")
 
-
-## BIM Model Uses
-
 ![Amazon Colleferro 3d](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-3d.svg "Amazon Colleferro 3d")
-
-{% include googleDrivePlayer.html id=page.gkUbtzB8nz1rf3CvrpGgrlKKvYuXXMpk/preview %} 
-
-{% include googleDrivePlayer.html id=page.1gDtnczikFd3T6xJ9ui5cbChHh2x_DILu/preview %}
-
-{% include googleDrivePlayer.html id=page.1GZOz3yvTTNnxfluxCMrhfd_VGRK6y9iC/preview %}
-
-{% include googleDrivePlayer.html id=page.1IEJ1Eurlrelog9p1J8XiyUF--d5lFImM/preview %}
 
 ## Floorplans
 
