@@ -22,7 +22,7 @@ image: projects/2019-arc-it-cf/2019-arc-it-cf-ico.svg
 
 ![Amazon Colleferro 3d](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-3d.svg "Amazon Colleferro 3d")
 
-{% include googleDrivePlayer.html id=page.gkUbtzB8nz1rf3CvrpGgrlKKvYuXXMpk/preview %}
+{% include googleDrivePlayer.html id=page.gkUbtzB8nz1rf3CvrpGgrlKKvYuXXMpk/preview %} 
 
 {% include googleDrivePlayer.html id=page.1gDtnczikFd3T6xJ9ui5cbChHh2x_DILu/preview %}
 
