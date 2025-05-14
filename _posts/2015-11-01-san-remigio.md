@@ -5,7 +5,7 @@ author: "Matteo Mandrile"
 categories: architecture
 tags: [art]
 city: Pallanza
-image: projects/2015-arc-it-ci/2015-arc-it-sr-ico.svg
+image: projects/2015-arc-it-sr/2015-arc-it-sr-ico.svg
 ---
 <p align="center"> 
     &copy; ICIS Engineering
