@@ -80,18 +80,16 @@
 				<key>Class Name</key>
 				<string>ImagePDFAction</string>
 				<key>InputUUID</key>
-				<string>CCF5DD24-B3CE-4649-A4B6-DEC46EF8854E</string>
+				<string>08C36C5A-B730-495F-95A2-2992079F0D0B</string>
 				<key>Keywords</key>
 				<array>
 					<string>Stampa</string>
 					<string>Trasforma</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>74E1721A-7448-4BAC-BCDA-8875879071C4</string>
-				<key>ShowWhenRun</key>
-				<false/>
+				<string>B194BC6D-F1F2-445E-94E3-0C279AAFA942</string>
 				<key>UUID</key>
-				<string>E4FC52D3-5628-483D-9F22-7E1DC9783639</string>
+				<string>6B0CFC57-DAD6-496B-A700-3E4A41F15F52</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>PDF</string>
@@ -156,7 +154,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>287.000000:322.000000</string>
+				<string>252.250000:266.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Render PDF Pages as Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -230,16 +228,16 @@
 				<key>Class Name</key>
 				<string>MoveFilesAction</string>
 				<key>InputUUID</key>
-				<string>B63DD654-6670-4B63-9602-F78042838253</string>
+				<string>F4A80908-3199-4ED7-A083-113E16B250FD</string>
 				<key>Keywords</key>
 				<array>
 					<string>File</string>
 					<string>Sposta</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>8B3684DE-7A71-47CD-ACC3-AA0851C56F04</string>
+				<string>329EFD99-867B-4007-A9E0-CFC115CBCE27</string>
 				<key>UUID</key>
-				<string>13834E8F-EE38-4F98-9DF3-DD3AEDFB863F</string>
+				<string>FC89C510-1946-4B12-8C8A-93C756BD7669</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Finder</string>
@@ -278,7 +276,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>287.000000:478.000000</string>
+				<string>252.250000:366.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Move Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -288,12 +286,12 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>363604C3-1531-4D8B-BC5F-4530D1864D91</key>
+		<key>15AA8CAC-38BB-41FF-B30E-2CC856138264</key>
 		<dict>
 			<key>from</key>
-			<string>E4FC52D3-5628-483D-9F22-7E1DC9783639 - E4FC52D3-5628-483D-9F22-7E1DC9783639</string>
+			<string>6B0CFC57-DAD6-496B-A700-3E4A41F15F52 - 6B0CFC57-DAD6-496B-A700-3E4A41F15F52</string>
 			<key>to</key>
-			<string>13834E8F-EE38-4F98-9DF3-DD3AEDFB863F - 13834E8F-EE38-4F98-9DF3-DD3AEDFB863F</string>
+			<string>FC89C510-1946-4B12-8C8A-93C756BD7669 - FC89C510-1946-4B12-8C8A-93C756BD7669</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
