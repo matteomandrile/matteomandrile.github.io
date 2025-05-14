@@ -14,7 +14,7 @@ image: projects/2015-arc-it-sr/2015-arc-it-sr-ico.svg
 ## Historical Background
 Villa San Remigio stands on Castagnola hill in Pallanza overlooking Lake Maggiore, an area that became popular with aristocrats during the 19th century. After 1860, two prominent families—the Irish Anglican Brownes and the Neapolitan Della Valle di Casanova—established residences here. The property began as a Swiss chalet built in 1863 by architect Pompeo Azari. After their marriage, the Della Valle couple created elaborate Italian gardens around the chalet, then transformed the building itself into a neo-Renaissance villa with Florentine and Lombard influences. Completed in 1916 with the addition of the "Arms Hall," "Music Room," and "Dining Room," the villa represents an excellent example of late 19th-century aristocratic architecture. The gardens opened to the public in 1929, and in 1977, the property was transferred to the Piedmont Region, which has preserved much of its original character despite some conversions to office space.
 
-![sr pic1](/assets/img/projects/2015-arc-it-sr/2015-arc-it-sr-pic1.svg "sr pic1")
+![sr pic2](/assets/img/projects/2015-arc-it-sr/2015-arc-it-sr-pic2.svg "sr pic2")
 
 ## Restoration
 The restoration project for Villa San Remigio aims to revitalize this historic property while preserving its architectural and cultural significance. The initiative focuses on transforming the basement and "noble" ground floor for immediate hospitality functions, including receptions, weddings, conferences, and various events.
