@@ -11,6 +11,8 @@ image: projects/2019-arc-it-cf/2019-arc-it-cf-ico.svg
     &copy; <a href="(https://www.aigroup.it/en/" target="_blank">AI Engineering </a>
 </p>
 
+![Amazon Colleferro picture4](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-pic4.svg "Amazon Colleferro picture4")
+
 ## Colleferro
 
 ![Amazon Colleferro urban plan](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-urb.svg "Amazon Colleferro urban plan")
@@ -23,12 +25,19 @@ image: projects/2019-arc-it-cf/2019-arc-it-cf-ico.svg
 
 ## Sections
 
-![Amazon Colleferro cut](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-cut1.svg "Amazon Colleferro cut")
+![Amazon Colleferro cut](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-cut.svg "Amazon Colleferro cut")
 
 ## Details
 
-![Amazon Colleferro render1](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-det1.svg "Amazon Colleferro render1")
+![Amazon Colleferro detail1](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-det1.svg "Amazon Colleferro detail1")
 
-![Amazon Colleferro render2](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-det2.svg "Amazon Colleferro render2")
+![Amazon Colleferro picture1](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-pic1.svg "Amazon Colleferro picture1")
 
-![Amazon Colleferro render3](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-det3.svg "Amazon Colleferro render3")
+![Amazon Colleferro detail2](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-det2.svg "Amazon Colleferro detail2")
+
+![Amazon Colleferro picture2](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-pic2.svg "Amazon Colleferro picture2")
+
+![Amazon Colleferro detail3](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-det3.svg "Amazon Colleferro detail3")
+
+![Amazon Colleferro picture3](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-pic3.svg "Amazon Colleferro picture3")
+
