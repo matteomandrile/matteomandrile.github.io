@@ -17,6 +17,10 @@ image: projects/2019-arc-it-cf/2019-arc-it-cf-ico.svg
 
 ![Amazon Colleferro urban plan](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-urb.svg "Amazon Colleferro urban plan")
 
+![Amazon Colleferro 3d](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-3d.svg "Amazon Colleferro 3d")
+
+![Amazon Colleferro vid1](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-vid1.mp4 "Amazon Colleferro vid1")
+
 ## Floorplans
 
 ![Amazon Colleferro floor plan](/assets/img/projects/2019-arc-it-cf/2019-arc-it-cf-pln1.svg "Amazon Colleferro floor plan")
