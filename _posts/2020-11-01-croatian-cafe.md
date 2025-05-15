@@ -10,23 +10,26 @@ image: projects/2020-int-cr-cc/2020-int-cr-cc-ico.svg
 
 ![Croatian Cafe art](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-art.svg "Croatian Cafe art")
 
-## A Unique Installation by MIT Senseable City Lab
-In the city of tomorrow traffic lights will be replaced by intelligent intersections for controlling urban traffic, seamlessly knitting together flows of cars, pedestrians and bikers.
+## Renovation of a Croatian cafè
 
 ![Croatian Cafe plan](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-pln1.svg "Croatian Cafe plan")
 
-Imagine a city without traffic lights, where lanes of cars merge harmoniously from one to the next, allowing traffic to flow smoothly across intersections. This futuristic vision is becoming reality. The development of autonomous driving promises to revolutionise the landscape of urban mobility, for a safer and more efficient city, across all modes of transportation.
+![Croatian Cafe sections](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-cut1.svg "Croatian Cafe sections")
 
-![Croatian Cafe installation](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-pic3.svg "Croatian Cafe installation")
+![Croatian Cafe flooring](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-flr.svg "Croatian Cafe flooring")
 
-At MIT Senseable City Lab, new research into systems of real-time control has made it possible to think in terms of intelligent intersections, acting as veritable orchestra conductors for the cars throughout the city. The digital optimisation of individual behaviour and viewing traffic from a holistic perspective in terms of comfort, security, environmental impact and efficiency are poised to usher in spectacular changes in urban living.
+![Croatian Cafe wall materials](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-wal.svg "Croatian Cafe wall materials")
 
-![Croatian Cafe installation2](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-pic2.svg "Croatian Cafe installation2")
+![Croatian Cafe ceiling](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-cel.svg "Croatian Cafe ceiling")
 
-Croatian Cafe explores the ways in which this "digital traffic controller" can become a reality in cities. A specially designed user interface lets visitors take control of the intersection and gives each person an opportunity to interact via their dynamic projection, adjusting the flow of cars and pressing a 'pedestrian' button to test how the system responds. 
+![Croatian Cafe lighting](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-lig.svg "Croatian Cafe lighting")
 
-![Croatian Cafe control](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-pic5.svg "Croatian Cafe control")
+![Croatian Cafe materials](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-mat.svg "Croatian Cafe materials")
 
-An illuminated physical model of the intersection and the comparison in real time with a traditional traffic light demonstrates a truly game-changing upheaval in urban mobility - the advent of the autonomous vehicle.
+![Croatian Cafe furniture](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-fur.svg "Croatian Cafe furniture")
 
-![Croatian Cafe intersection](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-pic4.svg "Croatian Cafe intersection")
+![Croatian Cafe render3](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-rnd3.svg "Croatian Cafe render3")
+
+![Croatian Cafe render1](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-rnd1.svg "Croatian Cafe render1")
+
+![Croatian Cafe render2](/assets/img/projects/2020-int-cr-cc/2020-int-cr-cc-rnd2.svg "Croatian Cafe render2")
