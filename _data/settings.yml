@@ -10,7 +10,7 @@ menu:
 - {name: 'Architecture', folder: 'pages', file: 'architecture.html'}
 - {name: 'Urban', folder: 'pages', file: 'urban.html'}
 - {name: 'Interior', folder: 'pages', file: 'interior.html'}
-# - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Research', folder: 'pages', file: 'research.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
