@@ -1,0 +1,35 @@
+---
+layout: post
+title: "DriveWave"
+author: "Matteo Mandrile"
+categories: research
+tags: [installation]
+city: Paris
+image: projects/2014-res-us-dw/2014-res-us-dw-ico.svg
+---
+<p align="center"> 
+    &copy; MIT Senseable City Lab
+</p>
+
+![DriveWave Pavilion](/assets/img/projects/2014-res-us-dw/2014-res-us-dw-pic1.svg "DriveWave Pavilion")
+
+## A Unique Installation by MIT Senseable City Lab
+In the city of tomorrow traffic lights will be replaced by intelligent intersections for controlling urban traffic, seamlessly knitting together flows of cars, pedestrians and bikers.
+
+![DriveWave measures](/assets/img/projects/2014-res-us-dw/2014-res-us-dw-pic0.svg "DriveWave measures")
+
+Imagine a city without traffic lights, where lanes of cars merge harmoniously from one to the next, allowing traffic to flow smoothly across intersections. This futuristic vision is becoming reality. The development of autonomous driving promises to revolutionise the landscape of urban mobility, for a safer and more efficient city, across all modes of transportation.
+
+![DriveWave installation](/assets/img/projects/2014-res-us-dw/2014-res-us-dw-pic3.svg "DriveWave installation")
+
+At MIT Senseable City Lab, new research into systems of real-time control has made it possible to think in terms of intelligent intersections, acting as veritable orchestra conductors for the cars throughout the city. The digital optimisation of individual behaviour and viewing traffic from a holistic perspective in terms of comfort, security, environmental impact and efficiency are poised to usher in spectacular changes in urban living.
+
+![DriveWave installation2](/assets/img/projects/2014-res-us-dw/2014-res-us-dw-pic2.svg "DriveWave installation2")
+
+DriveWAVE explores the ways in which this "digital traffic controller" can become a reality in cities. A specially designed user interface lets visitors take control of the intersection and gives each person an opportunity to interact via their dynamic projection, adjusting the flow of cars and pressing a 'pedestrian' button to test how the system responds. 
+
+![DriveWave control](/assets/img/projects/2014-res-us-dw/2014-res-us-dw-pic5.svg "DriveWave control")
+
+An illuminated physical model of the intersection and the comparison in real time with a traditional traffic light demonstrates a truly game-changing upheaval in urban mobility - the advent of the autonomous vehicle.
+
+![DriveWave intersection](/assets/img/projects/2014-res-us-dw/2014-res-us-dw-pic4.svg "DriveWave intersection")
