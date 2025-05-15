@@ -8,7 +8,7 @@ city: Genève
 image: /projects/2018-arc-ch-un/2018-arc-ch-un-ico.svg
 ---
 <p align="center"> 
-    &copy; <a href="(https://www.peiaassociati.it/" target="_blank">Peia Associati</a>
+    &copy; Peia Associati
 </p>
 
 ## Genève

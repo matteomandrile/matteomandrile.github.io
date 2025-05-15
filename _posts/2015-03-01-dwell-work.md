@@ -8,21 +8,18 @@ city: San Mauro
 image: projects/2015-int-it-sm/2015-int-it-sm-ico.svg
 ---
 <p align="center"> 
-    &copy; <a href="(http://www.maatarchitettura.it/en/" target="_blank">MAAT Architettura</a>
+    &copy; MAAT Architettura
 </p>
 
 ## San Mauro
-
 ![dwell workurban plan](/assets/img/projects/2015-int-it-sm/2015-int-it-sm-urb.svg "dwell work urban plan")
 
 ## Floorplans
-
 ![dwell work first floor plan](/assets/img/projects/2015-int-it-sm/2015-int-it-sm-pln1.svg "dwell work first floor plan")
 
 ![dwell work second floor plan](/assets/img/projects/2015-int-it-sm/2015-int-it-sm-pln2.svg "dwell work second floor plan")
 
 ## Bespoke Furnitures
-
 ![dwell work render1](/assets/img/projects/2015-int-it-sm/2015-int-it-sm-rnd1.svg "dwell work render1")
 
 ![dwell work render2](/assets/img/projects/2015-int-it-sm/2015-int-it-sm-rnd2.svg "dwell work render2")

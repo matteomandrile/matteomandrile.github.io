@@ -8,7 +8,7 @@ city: Calasetta
 image: projects/2016-int-it-bh/2016-int-it-bh-ico.svg
 ---
 <p align="center"> 
-    &copy; <a href="(http://www.maatarchitettura.it/en/" target="_blank">MAAT Architettura</a>
+    &copy; MAAT Architettura
 </p>
 
 ## Sardinia

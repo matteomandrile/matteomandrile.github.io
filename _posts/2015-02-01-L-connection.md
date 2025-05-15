@@ -8,23 +8,20 @@ city: Costigliole
 image: projects/2015-int-it-co/2015-int-it-co-ico.svg
 ---
 <p align="center"> 
-    &copy; <a href="(http://www.maatarchitettura.it/en/" target="_blank">MAAT Architettura</a>
+    &copy; MAAT Architettura
 </p>
 
 ## Costigliole
-
 ![L-connection urban plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-urb.svg "L-connection  urban plan")
 
 ![L-connection exterior](/assets/img/projects/2015-int-it-co/2015-int-it-co-ext1.svg "L-connection exterior")
 
 ## Apartment 1 Floorplans
-
 ![L-connection 1 ground floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln11.svg "L-connection 1 ground floor plan")
 
 ![L-connection 1 second floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln12.svg "L-connection 1 second floor plan")
 
 ## Apartment 1 Bespoke Furnitures
-
 ![L-connection render4](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd14.svg "L-connection render4")
 
 ![L-connection details](/assets/img/projects/2015-int-it-co/2015-int-it-co-det11.svg "L-connection details")
@@ -43,15 +40,12 @@ image: projects/2015-int-it-co/2015-int-it-co-ico.svg
 
 ![L-connection render2](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd12.svg "L-connection render2")
 
-
 ## Apartment 2 Floorplans
-
 ![L-connection 2ground floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln21.svg "L-connection 2 ground floor plan")
 
 ![L-connection 2 second floor plan](/assets/img/projects/2015-int-it-co/2015-int-it-co-pln22.svg "L-connection 2 second floor plan")
 
 ## Apartment 2 Bespoke Furnitures
-
 ![L-connection render6](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd21.svg "L-connection render6")
 
 ![L-connection render7](/assets/img/projects/2015-int-it-co/2015-int-it-co-rnd22.svg "L-connection render7")
