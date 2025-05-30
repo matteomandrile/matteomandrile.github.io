@@ -36,6 +36,8 @@ The laminated glass of balconies and bay windows are treated with patterned and 
 ## Details
 ![Royal Garden Detail](/assets/img/projects/2018-arc-cn-rg/2018-arc-cn-rg-det1.svg "Royal Garden Detail")
 
+![Royal Garden Detail2](/assets/img/projects/2018-arc-cn-rg/2018-arc-cn-rg-det2.svg "Royal Garden Detail2")
+
 ![Royal Garden Render 3](/assets/img/projects/2018-arc-cn-rg/2018-arc-cn-rg-rnd1.svg "Royal Garden Render 3")
 
 ![Royal Garden Construction](/assets/img/projects/2018-arc-cn-rg/2018-arc-cn-rg-blt.svg "Royal Garden Render")
