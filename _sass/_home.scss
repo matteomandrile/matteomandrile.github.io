@@ -4,13 +4,16 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  // position: relative;
+  position: relative;
 }
 .featured-post h2 {
-  // bottom: 0;
-  // margin: 0;
-  // padding: 10px;
-  // position: absolute;
+  bottom: 0;
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 .featured-post h2 span {
   display: inline-block;
@@ -53,13 +56,4 @@
 }
 .pagination-active:hover {
   background-color: #e0e0e0;
-}
-
-article {
-  text-align: center;
-}
-
-article a {
-  display: block;
-  margin: 0 auto;
 }
