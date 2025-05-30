@@ -4,13 +4,13 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+  // position: relative;
 }
 .featured-post h2 {
-  bottom: 0;
-  margin: 0;
-  padding: 10px;
-  position: absolute;
+  // bottom: 0;
+  // margin: 0;
+  // padding: 10px;
+  // position: absolute;
 }
 .featured-post h2 span {
   display: inline-block;
@@ -53,4 +53,8 @@
 }
 .pagination-active:hover {
   background-color: #e0e0e0;
+}
+
+article {
+  text-align: center;
 }

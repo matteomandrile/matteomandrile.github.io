@@ -1,4 +1,4 @@
-ß---
+---
 layout: post
 title: "FIFA World Cup Stadium"
 author: "Matteo Mandrile"
