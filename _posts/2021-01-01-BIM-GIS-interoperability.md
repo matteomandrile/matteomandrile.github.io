@@ -5,7 +5,7 @@ author: "Matteo Mandrile"
 categories: research
 tags: [BIM]
 city: Ljubljana
-image: projects/2019-arc-it-cf/2019-arc-it-cf-ico.svg
+image: projects/2021-res-sl-mt/2021-res-sl-mt-ico.svg
 ---
 The way we design, build, and manage our cities is undergoing a digital revolution. At the heart of this transformation is **Building Information Modeling (BIM)**, a powerful tool that extends beyond simply creating visually appealing 3D models. My research examines how BIM can serve as a **multiscale facilitator** for understanding the complex relationship between individual buildings and the sprawling urban environment.
 
