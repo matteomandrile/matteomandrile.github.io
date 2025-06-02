@@ -43,10 +43,17 @@ Despite these advancements, a significant challenge remains: **the differences i
 
 ## City Information Modeling (CIM): A Framework for Integration
 To overcome these integration challenges, researchers have proposed a framework called **City Information Modeling (CIM)**. The idea is to extract building data from BIM and urban data from GIS and then combine them to create a holistic urban model.
+
+![CIM framework](/assets/img/projects/2021-res-sl-mt/2021-res-sl-mt-cim.svg "CIM framework")
+*CIM framework.*
+
 My research explored a workflow for multiscale information integration that involves:
 1. Exporting BIM data (in IFC and Excel formats).
 2. Restructuring this data to match the CityGML schema.
 3. Storing the output in an urban database for various applications.
+
+![IFC- CityGML data integration workflow](/assets/img/projects/2021-res-sl-mt/2021-res-sl-mt-integration.svg "IFC- CityGML data integration workflow")
+*IFC- CityGML data integration workflow.*
 
 ## Case Study 1: Building a Semantic Urban Model (Top-Down Approach)
 In Ljubljana, Slovenia, I employed a "top-down" approach to develop a **semantic urban model** for two central neighborhoods utilizing institutional open data. This involved creating a Service-Oriented Architecture (SOA) system to manage the creation and use of the 3D city model.
@@ -55,11 +62,22 @@ The process included creating a three-tier **Service-Oriented Architecture** sys
 - **Middleware Layer:** Controlling interactions between the application and data layers.
 - **Application Layer:** Defining visualization use cases on web browsers (using WebGL) and local computers (with Google Earth).
 
+![Top-Down Approach](/assets/img/projects/2021-res-sl-mt/2021-res-sl-mt-top.svg "Top-Down Approach")
+*Top-Down Approach.*
+
 For the modeling itself, I combined GIS shapefiles and Lidar data with an open-source algorithm called **3dfier** (developed at TU Delft) to reconstruct 3D models from 2D GIS datasets. Once the 3D reconstruction was complete, the model was imported into the database and enriched with building attributes. This allowed for effective data management, querying, and export for various applications, including visualization in Google Earth and interactive web browsers.
+
+![Semantic 3D city modelling - Workflow data and tools](/assets/img/projects/2021-res-sl-mt/2021-res-sl-mt-workflow.svg "Semantic 3D city modelling - Workflow data and tools")
+*Semantic 3D city modelling - Workflow data and tools.*
+
 While the CityGML model could be enriched for energy analysis using the Energy ADE classes, a significant obstacle was the availability of data. Much of the crucial energy performance data was in non-machine-interpretable PDF formats, making automated enrichment difficult.
 
 ## Case Study 2: Integrating Building and City Data (Bottom-Up Approach)
 The second case study involved a "bottom-up" data integration approach for the renovation and extension of the historic Hotel Bellevue in Ljubljana. This project, designed by Enota, involved transforming an abandoned cultural heritage site into a modern facility with energy-saving principles.
+
+![Bottom-Up approach](/assets/img/projects/2021-res-sl-mt/2021-res-sl-mt-up.svg "Bottom-Up approach")
+*Bottom-Up approach.*
+
 This approach focused on several information exchanges:
 - Between BIM and **Building Energy Models (BEM)**.
 - Between IFC and CityGML.
@@ -69,7 +87,13 @@ The three key steps were:
 2. **Energy demand assessment** to evaluate building energy loads (though reliable values were not yet available at this stage).
 3. **Data integration** to enrich a CityGML database with information from the IFC models.
 
+![Bottom-up IFC-CityGML data integration](/assets/img/projects/2021-res-sl-mt/2021-res-sl-mt-up-integr.svg "Bottom-up IFC-CityGML data integration")
+*Bottom-up IFC-CityGML data integration.*
+
 To extract, transform, and load information between the different schemas, I used **FME**, a powerful data conversion tool. This allowed us to extract and reorganize data from IFC according to the CityGML schema. While the process was generally successful for basic geometry and attributes, handling domain-specific information proved more complex due to the differing hierarchical configurations of the data models.
+
+![Extract Transform Load (ETL) workflows](/assets/img/projects/2021-res-sl-mt/2021-res-sl-mt-etl.svg "Extract Transform Load (ETL) workflows")
+*Extract Transform Load (ETL) workflows.*
 
 ## The Path Forward: Unlocking the Full Potential
 My research confirms that **multiscale analysis of the built environment is possible, albeit with some limitations**. Data integration strategies are key to facilitating software interoperability. However, actual progress hinges on the following:
